@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "alinteacoin": "^1.0.0"
+  },
+  "name": "yunteai",
+  "description": "",
+  "version": "4.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/alinyun/yunteai"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinyun/yunteai/issues"
+  },
+  "homepage": "https://github.com/alinyun/yunteai#readme"
+}
